@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trip-plan-with-me-/static/css/main.d845bf4a.css",
+    "main.js": "/Trip-plan-with-me-/static/js/main.37041623.js",
+    "index.html": "/Trip-plan-with-me-/index.html",
+    "main.d845bf4a.css.map": "/Trip-plan-with-me-/static/css/main.d845bf4a.css.map",
+    "main.37041623.js.map": "/Trip-plan-with-me-/static/js/main.37041623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d845bf4a.css",
+    "static/js/main.37041623.js"
+  ]
+}
